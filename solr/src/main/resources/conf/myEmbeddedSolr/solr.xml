@@ -1,0 +1,16 @@
+<solr>
+<!--    <str name="coreRootDirectory">src/main/resources/conf/myEmbeddedSolr</str>-->
+
+<!--    <str name="coreRootDirectory">../../../../../target/embedded-solr</str>-->
+<!--    <str name="configSetBaseDir">cores</str>-->
+<!--    <str name="solrDataHome">../../../../../target/embedded-solr</str>-->
+
+<!--    <str name="coreRootDirectory">target/embedded-solr</str>-->
+<!--    <str name="configSetBaseDir">../../src/main/resources/conf/myEmbeddedSolr/cores</str>-->
+<!--    <str name="solrDataHome">target/embedded-solr</str>-->
+
+<!--    <str name="coreRootDirectory">target/classes/conf/myEmbeddedSolr</str>-->
+    <str name="configSetBaseDir">cores</str>
+<!--    <str name="solrDataHome">target/embedded-solr</str>-->
+
+</solr>
